@@ -2,9 +2,7 @@
 This Android project demonstrates how to use the device's Gyroscope sensor to interact with an image in real time. The gyroscope sensor data is captured and applied to manipulate the rotation of an image using Jetpack Compose.
 
 ## 📱Preview
-<video controls height="300" width="650" alt="Gyroscope Image Preview">
-  <source src="https://github.com/itsAmirhossein/Gyroscope-Image/blob/origin/gyroscope.mp4" type="video/mp4">
-</video>
+<img src="https://github.com/itsAmirhossein/Gyroscope-Image/blob/origin/gyroscope.gif" height="649" width="300">
 
 ## <br/><br/>Built With 🛠
 - [Kotlin](https://kotlinlang.org/) 
